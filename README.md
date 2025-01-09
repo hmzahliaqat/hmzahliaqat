@@ -45,7 +45,6 @@ I have experience using these tools and languages. <br> <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 <br><br>
 
@@ -61,7 +60,7 @@ I have experience using these tools and languages. <br> <br>
 
 <p align="left">
 <!-- Linkedin -->
-<a href="https://linkedin.com/in/ahsentimeline" target="_blank">
+<a href="https://www.linkedin.com/in/hamza-liaqat-8b19471b3/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin:  ahsentimeline-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 &nbsp;
