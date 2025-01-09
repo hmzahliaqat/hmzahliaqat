@@ -10,8 +10,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Software+Engineer.;Self-taught+full+stack+developer.;I+love+to+code.;I+love+to+learn+new+things.;"/>
+<p align="center">   
+  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=808080&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Software+Engineer.;Self-taught+full+stack+developer.;I+love+to+code.;I+love+to+learn+new+things.;"/> 
 </p>
 
 
