@@ -35,6 +35,8 @@ I have experience using these tools and languages. <br> <br>
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)
+![Livewire](https://img.shields.io/badge/-Livewire-4B8F29?style=flat&logo=livewire)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
