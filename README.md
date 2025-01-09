@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/codesbyahsen">
-    <img src="./assets/gifs/ahsen-alee.png" width="140" alt="Ahsen Alee" />
+    <img src="./assets/gifs/HamzaLiaqat.png" width="140" alt="Ahsen Alee" />
   </a>
 </p>
 
