@@ -11,18 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Laravel+Software+Engineer.;Self-taught+full+stack+developer.;I+love+to+code.;I+love+photography.;I+love+to+learn+new+things.;"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Software+Engineer.;Self-taught+full+stack+developer.;I+love+to+code.;I+love+to+learn+new+things.;"/>
 </p>
 
 
 ### <img src="./assets/gifs/hacker.gif" width="40" alt="About" /> **About**
 
 <samp>
-I’m currently learning React & Vue <br>
-How to reach me: <a href="mailto:ahsenalee4@gmail.com">ahsenalee4@gmail.com</a> <br>
-Discord: <a href="https://discord.com/users/796633856802291723" target="_blank">ahsentimeline</a> <br>
-Reddit: <a href="https://reddit.com/user/ahsentimeline" target="_blank">ahsentimeline</a> <br>
-Snapchat: <a href="https://www.snapchat.com/add/ahsentimeline" target="_blank">ahsentimeline</a> <br>
+I’m currently Working with Laravel & Vue.js <br>
+How to reach me: <a href="mailto:ahsenalee4@gmail.com">hmzah.liaqat@gmail.com</a> <br>
+Instagram: <a href="https://www.instagram.com/hmzah_liaqat/" target="_blank">hmzah_liaqat</a> <br>
+
 <a href="https://www.buymeacoffee.com/ahsentimeline">Buy Me A Coffee</a>
 </samp>
 
