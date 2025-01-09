@@ -22,7 +22,7 @@ I’m currently Working with Laravel & Vue.js <br>
 How to reach me: <a href="mailto:ahsenalee4@gmail.com">hmzah.liaqat@gmail.com</a> <br>
 Instagram: <a href="https://www.instagram.com/hmzah_liaqat/" target="_blank">hmzah_liaqat</a> <br>
 
-<a href="https://www.buymeacoffee.com/ahsentimeline">Buy Me A Coffee</a>
+<a href="https://www.buymeacoffee.com/hmzah_liaqat">Buy Me A Coffee</a>
 </samp>
 
 <br><br>
