@@ -61,13 +61,9 @@ I have experience using these tools and languages. <br> <br>
 <p align="left">
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/hamza-liaqat-8b19471b3/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin:  ahsentimeline-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img src="https://img.shields.io/badge/linkedin:  HamzaLiaqat-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 &nbsp;
-<!-- Twitter -->
-<a href="https://twitter.com/ahsentimeline" target="_blank">
-  <img src="https://img.shields.io/badge/twitter:  ahsentimeline-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-</a>
 </p>
 
 <samp>It's a pleasure to make your acquaintance. 😊</samp>
