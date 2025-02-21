@@ -49,23 +49,6 @@ const hamza = {
 
 
 
-### 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Laravel    10 hrs 41 mins  ███████████░░░░░░░░  42.3%
-Vue.js     8 hrs 12 mins   ████████░░░░░░░░░░░  32.4%
-PHP        4 hrs 32 mins   ██████░░░░░░░░░░░░░  17.9%
-JavaScript 1 hr 27 mins    ███░░░░░░░░░░░░░░░░   5.8%
-Other      24 mins         ██░░░░░░░░░░░░░░░░░   1.6%
-```
-<!--END_SECTION:waka-->
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmzahliaqat&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
 ### 🤝 Connect with Me
 
