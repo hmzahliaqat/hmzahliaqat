@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 ```javascript
-const hamza = {
+const hmzah = {
     code: ["PHP", "JavaScript", "HTML", "CSS", "MySQL"],
     frameworks: ["Laravel", "Vue.js", "Livewire", "Bootstrap"],
     currentFocus: "Building scalable web applications",
