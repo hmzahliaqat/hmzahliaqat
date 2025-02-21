@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Liaqat</h1>
+<h1 align="center">Hi 👋, I'm Hmzah Liaqat</h1>
 <h3 align="center">A passionate Full Stack Developer specializing in Laravel & Vue.js</h3>
 
 <p align="center">
