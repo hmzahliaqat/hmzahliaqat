@@ -5,42 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Expert;Vue.js+Enthusiast;5%2B+Years+of+Coding+Experience&center=true&width=380&height=45">
 </p>
 
-### 🎯 Current Focus
-```php
-<?php
-
-namespace Life;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Open to Opportunities',
-                'position' => 'Full Stack Developer'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Laravel::class,
-            Vuejs::class,
-            Livewire::class,
-            Javascript::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source projects and inspire developers';
-    }
-}
-```
-
 ### 🚀 About Me
 
 ```javascript
@@ -52,16 +16,6 @@ const hamza = {
 };
 ```
 
-### 🌟 Featured Projects
-
-<p align="center">
-<a href="https://github.com/yourusername/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmzahliaqat&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmzahliaqat&repo=project2&theme=radical" />
-</a>
-</p>
 
 ### 🛠️ Tech Stack
 
@@ -142,16 +96,9 @@ Other      24 mins         ██░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-### 🎵 Spotify Playing
-
-[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hmzahliaqat&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+
