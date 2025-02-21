@@ -47,9 +47,7 @@ const hamza = {
   <img src="https://github-readme-stats.vercel.app/api?username=hmzahliaqat&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmzahliaqat&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ### 🤝 Connect with Me
 
