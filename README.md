@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer specializing in Laravel & Vue.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Expert;Vue.js+Enthusiast;5%2B+Years+of+Coding+Experience&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Expert;Vue.js+Enthusiast;2%2B+Years+of+Coding+Experience&center=true&width=380&height=45">
 </p>
 
 ### 🚀 About Me
