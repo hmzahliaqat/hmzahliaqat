@@ -2,8 +2,44 @@
 <h3 align="center">A passionate Full Stack Developer specializing in Laravel & Vue.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Expert;Vue.js+Enthusiast&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Expert;Vue.js+Enthusiast;5%2B+Years+of+Coding+Experience&center=true&width=380&height=45">
 </p>
+
+### 🎯 Current Focus
+```php
+<?php
+
+namespace Life;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Open to Opportunities',
+                'position' => 'Full Stack Developer'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            Vuejs::class,
+            Livewire::class,
+            Javascript::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source projects and inspire developers';
+    }
+}
+```
 
 ### 🚀 About Me
 
@@ -15,6 +51,17 @@ const hamza = {
     passions: ["Clean Code", "Web Development", "Problem Solving"]
 };
 ```
+
+### 🌟 Featured Projects
+
+<p align="center">
+<a href="https://github.com/yourusername/project1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmzahliaqat&repo=project1&theme=radical" />
+</a>
+<a href="https://github.com/yourusername/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmzahliaqat&repo=project2&theme=radical" />
+</a>
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -47,7 +94,31 @@ const hamza = {
   <img src="https://github-readme-stats.vercel.app/api?username=hmzahliaqat&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmzahliaqat&theme=radical" alt="GitHub Streak" />
+</p>
 
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hmzahliaqat&theme=radical)
+
+### 💻 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Laravel    10 hrs 41 mins  ███████████░░░░░░░░  42.3%
+Vue.js     8 hrs 12 mins   ████████░░░░░░░░░░░  32.4%
+PHP        4 hrs 32 mins   ██████░░░░░░░░░░░░░  17.9%
+JavaScript 1 hr 27 mins    ███░░░░░░░░░░░░░░░░   5.8%
+Other      24 mins         ██░░░░░░░░░░░░░░░░░   1.6%
+```
+<!--END_SECTION:waka-->
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hmzahliaqat&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ### 🤝 Connect with Me
 
@@ -71,8 +142,16 @@ const hamza = {
   </a>
 </p>
 
+### 🎵 Spotify Playing
+
+[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hmzahliaqat&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
