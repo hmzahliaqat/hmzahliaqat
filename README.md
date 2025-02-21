@@ -47,9 +47,7 @@ const hamza = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmzahliaqat&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hmzahliaqat&theme=radical)
 
 ### 💻 Weekly Development Breakdown
 
