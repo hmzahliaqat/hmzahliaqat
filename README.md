@@ -40,14 +40,6 @@ const hamza = {
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmzahliaqat&theme=radical" alt="GitHub Streak" />
-</p>
-
-
-
-
 ### 🤝 Connect with Me
 
 <p align="left">
