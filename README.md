@@ -54,13 +54,7 @@ const hmzah = {
   </a>
 </p>
 
-### ☕ Support Me
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/hamzaliaqat">
-    <img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
 
 
 <p align="center">
